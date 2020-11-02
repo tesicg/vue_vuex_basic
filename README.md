@@ -1,4 +1,4 @@
-# vue_vuex
+# vue_vuex_basic
 
 ## Project setup
 ```
